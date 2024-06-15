@@ -1,4 +1,4 @@
-const TelegramBot = require('node-telegram-bot-api');
+import TelegramBot from 'node-telegram-bot-api';
 
 const token = '7488084544:AAE2cb49874c7I9zhUD0fv90dAA1tD8Hpp4'
 const webAppUrl = 'https://main--dulcet-liger-a5df91.netlify.app/'
